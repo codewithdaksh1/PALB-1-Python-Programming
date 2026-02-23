@@ -7,7 +7,7 @@ I am solving problems to improve my problem-solving skills and prepare for codin
 
 * LeetCode
 * GeeksforGeeks
-* 
+ 
 ⭐ Progress
 
 I update this repository regularly as I solve more problems.
